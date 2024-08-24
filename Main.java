@@ -1,5 +1,4 @@
 //Basic Calculator
-package Task_6;
 
 import java.util.Scanner;
 
